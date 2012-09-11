@@ -15,6 +15,6 @@ Instructions
 
 That is:
 
-        $ sudo killall dock
+        $ sudo killall Dock
 		$ ./organizer.py ~/Library/Preferences/com.apple.dashboard.plist
 
